@@ -38,21 +38,22 @@ vue-convertidor/
 Abrí una terminal dentro de tu carpeta del proyecto:
 
 Copiar código
-C:\Users\tu_usuario\source\repos\Vue\vue-convertidor
+"C:\Users\tu_usuario\source\repos\Vue\vue-convertidor"
+
 Reemplazá tu_usuario por el nombre de usuario de tu PC.
 
 Instalar dependencias:
 
 Copiar código
 
-npm install
+"npm install"
 
 
 Ejecutar el servidor local:
 
 Copiar código
 
-npm run dev
+"npm run dev"
 
 Acceder desde el navegador:
 
@@ -63,7 +64,7 @@ http://localhost:5173/
 
 Copiar código
 
-npm run build
+"npm run build"
 
 Los archivos optimizados quedarán en la carpeta dist/.
 
