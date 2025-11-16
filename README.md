@@ -31,35 +31,40 @@ vue-convertidor/
 ├── package.json
 ├── vite.config.js
 └── README.md
+
+
 ▶️ Cómo ejecutar el proyecto localmente
 
 Abrí una terminal dentro de tu carpeta del proyecto:
 
-bash
 Copiar código
 C:\Users\tu_usuario\source\repos\Vue\vue-convertidor
 Reemplazá tu_usuario por el nombre de usuario de tu PC.
 
 Instalar dependencias:
 
-nginx
 Copiar código
+
 npm install
+
+
 Ejecutar el servidor local:
 
-arduino
 Copiar código
+
 npm run dev
+
 Acceder desde el navegador:
 
-arduino
 Copiar código
 http://localhost:5173/
 📦 Cómo generar build para producción
 
-arduino
+
 Copiar código
+
 npm run build
+
 Los archivos optimizados quedarán en la carpeta dist/.
 
 👤 Autor
